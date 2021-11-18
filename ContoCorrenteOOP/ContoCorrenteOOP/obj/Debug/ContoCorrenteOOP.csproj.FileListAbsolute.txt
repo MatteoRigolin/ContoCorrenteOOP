@@ -1,0 +1,7 @@
+E:\4F 2021-2022\Visual studio\ContoCorrenteOOP\ContoCorrenteOOP\bin\Debug\ContoCorrenteOOP.exe.config
+E:\4F 2021-2022\Visual studio\ContoCorrenteOOP\ContoCorrenteOOP\bin\Debug\ContoCorrenteOOP.exe
+E:\4F 2021-2022\Visual studio\ContoCorrenteOOP\ContoCorrenteOOP\bin\Debug\ContoCorrenteOOP.pdb
+E:\4F 2021-2022\Visual studio\ContoCorrenteOOP\ContoCorrenteOOP\obj\Debug\ContoCorrenteOOP.csproj.AssemblyReference.cache
+E:\4F 2021-2022\Visual studio\ContoCorrenteOOP\ContoCorrenteOOP\obj\Debug\ContoCorrenteOOP.csproj.CoreCompileInputs.cache
+E:\4F 2021-2022\Visual studio\ContoCorrenteOOP\ContoCorrenteOOP\obj\Debug\ContoCorrenteOOP.exe
+E:\4F 2021-2022\Visual studio\ContoCorrenteOOP\ContoCorrenteOOP\obj\Debug\ContoCorrenteOOP.pdb
